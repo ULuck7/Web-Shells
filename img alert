@@ -1,0 +1,3 @@
+<?php
+<img src="#" onError="javascript:alert(1)">test.jpg</img>
+?>
