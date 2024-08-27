@@ -1,3 +1,3 @@
 <?php
-system("javascript:alert(1)");
+echo "javascript:alert(1)";
 ?>
